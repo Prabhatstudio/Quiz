@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Help | QuizVerse</title>
+  <link rel="stylesheet" href="style.css">
+  <style>
+
+        nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem 3rem;
+  background: #111;
+  color: white;
+}
+
+nav ul {
+  display: flex;
+  gap: 2rem;
+  list-style: none;
+}
+
+nav a {
+  color: white;
+  text-decoration: none;
+  transition: 0.3s;
+}
+
+nav a:hover, nav a.active {
+  color: #00d4ff;
+}
+
+.content {
+  max-width: 800px;
+  margin: 3rem auto;
+  padding: 2rem;
+  background: #000000;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+}
+
+.login-form {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+.login-form input {
+  padding: 0.8rem;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+}
+
+.login-form button {
+  background: #00d4ff;
+  color: white;
+  border: none;
+  padding: 0.8rem;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+.login-form button:hover {
+  background: #0099cc;
+}
+
+
+    .faq-section {
+      margin-bottom: 3rem;
+    }
+    .faq-section h3 {
+      margin-bottom: 0.5rem;
+      color: #00d4ff;
+    }
+    .faq-section ul {
+      list-style: square;
+      margin-left: 2rem;
+    }
+    .highlight {
+      background: #3ecaf5;
+      padding: 1rem;
+      border-radius: 8px;
+      margin-top: 1rem;
+      border-left: 5px solid #00d4ff;
+    }
+    a {
+      color: #00aaff;
+    }
+  </style>
+</head>
+<body>
+  <nav>
+    <h1>QuizVerse</h1>
+    <ul>
+      <li><a href="index.html">Home</a></li>
+      <li><a href="about.html">About</a></li>
+      <li><a href="help.html" class="active">Help</a></li>
+      <li><a href="login.html">Login</a></li>
+    </ul>
+  </nav>
+
+  <section class="content">
+    <h2>Help & FAQs</h2>
+    <p>Need assistance? You're in the right place! Here’s everything you need to know about using <strong>QuizVerse</strong>.</p>
+
+    <!-- Getting Started -->
+    <div class="faq-section">
+      <h3>🚀 Getting Started</h3>
+      <p>Follow these steps to begin your quiz journey:</p>
+      <ul>
+        <li>Visit the <strong>Home</strong> page to explore available quizzes.</li>
+        <li>Select a quiz category (Math, Science, General Knowledge, etc.).</li>
+        <li>Click <strong>Start Quiz</strong> to begin playing instantly.</li>
+        <li>Answer each question carefully before time runs out!</li>
+      </ul>
+      <div class="highlight">
+        Tip 💡: Try shorter quizzes first to get familiar with the interface.
+      </div>
+    </div>
+
+    <!-- Scoring Rules -->
+    <div class="faq-section">
+      <h3>🏆 Scoring System</h3>
+      <p>QuizVerse uses a fair and competitive scoring model:</p>
+      <ul>
+        <li><strong>+4 points</strong> for every correct answer.</li>
+        <li><strong>-1 point</strong> for every incorrect answer.</li>
+        <li><strong>0 points</strong> if you skip a question.</li>
+      </ul>
+      <p>Your final score will appear instantly after you submit your quiz.</p>
+    </div>
+
+    <!-- Retry & Progress -->
+    <div class="faq-section">
+      <h3>🔁 Retrying & Progress</h3>
+      <p>You can attempt quizzes as many times as you like. Each attempt helps you learn and improve your score.</p>
+      <p>In future updates, your progress will be saved automatically to track improvement over time.</p>
+    </div>
+
+    <!-- Rules & Tips -->
+    <div class="faq-section">
+      <h3>📋 Quiz Rules & Tips</h3>
+      <ul>
+        <li>Each quiz has a fixed time limit — manage your time wisely!</li>
+        <li>Do not refresh the page during a quiz or your progress may reset.</li>
+        <li>Use desktop mode for best experience.</li>
+        <li>Stay calm and focus — you can pause between questions.</li>
+      </ul>
+    </div>
+
+    <!-- Technical Support -->
+    <div class="faq-section">
+      <h3>🧰 Technical Support</h3>
+      <p>If you face any issues like quiz not loading or score not showing, try these fixes first:</p>
+      <ul>
+        <li>Clear your browser cache and refresh the page.</li>
+        <li>Ensure your internet connection is stable.</li>
+        <li>Try using Chrome or Edge browser for best performance.</li>
+      </ul>
+      <p>Still facing issues? Contact us at  
+        <a href="mailto:support@quizverse.com">support@quizverse.com</a>  
+        or message us on <a href="#">Discord Community</a>.
+      </p>
+    </div>
+
+    <div class="highlight">
+      ❤️ We're here to make your quiz experience amazing!  
+      If you have suggestions, we’d love to hear from you.
+    </div>
+  </section>
+</body>
+</html>
