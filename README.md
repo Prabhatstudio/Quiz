@@ -1,35 +1,45 @@
-# 🧠 QuizVerse – The Ultimate Quiz Experience  
+# 🧠 QuizVerse – Interactive Quiz Web App
 
-> A simple yet powerful quiz platform built using **HTML, CSS, and JavaScript**, featuring a sleek dark mode UI and smooth animations.
-
-
-## 🌟 Overview  
-
-**QuizVerse** is a fun and interactive web quiz project designed to test your knowledge across various subjects.  
-It’s clean, responsive, and fully functional — a perfect practice project for front-end learners.  
+> A clean and modern quiz project built using **HTML**, **CSS**, and **JavaScript**, featuring a smooth **dark mode**, elegant UI, and responsive design.  
+> Created with ❤️ by **Prabhat Sagar**
 
 ---
 
-## ⚙️ Tech Stack  
-
-- 🧩 **HTML5** – Structure  
-- 🎨 **CSS3** – Styling & Layout  
-- ⚡ **JavaScript (ES6)** – Logic & Interactivity  
-
----
-
-## ✨ Features  
-
-✅ Fully responsive and lightweight  
-✅ Sleek **dark mode** for modern feel  
-✅ Dynamic question system  
-✅ Instant result calculation  
-✅ Clean and modular code  
+![Badge](https://img.shields.io/badge/Made%20With-HTML%20%7C%20CSS%20%7C%20JS-blueviolet?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Dark%20Mode-Enabled-black?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
+![Badge](https://img.shields.io/badge/License-Free-brightgreen?style=for-the-badge)
 
 ---
 
-## 🚀 How to Use  
+## 🌟 Overview
 
-1. Clone this repository  
-   ```bash
-   git clone https://github.com/<Prabhatstudio>/quizverse.git
+**QuizVerse** is a fully responsive, browser-based quiz app that tests your knowledge across different topics.  
+It’s simple, engaging, and completely built from scratch using pure front-end technologies.
+
+---
+
+## ⚙️ Tech Stack
+
+| Technology | Purpose |
+|-------------|----------|
+| 🧩 HTML5 | Structure & Markup |
+| 🎨 CSS3 | Styling & Layout |
+| ⚡ JavaScript | Logic & Interactivity |
+
+---
+
+## ✨ Features
+
+- 🎮 Interactive quiz gameplay  
+- 🌓 Built-in **Dark Mode**  
+- 📱 100% Responsive layout  
+- ⚡ Instant result evaluation  
+- 🧠 Clean UI & fast performance  
+
+---
+
+## 🖼️ Screenshot (Optional)
+_Add a preview image of your project here_
+```html
+![QuizVerse Preview](preview.png)
