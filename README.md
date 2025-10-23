@@ -32,4 +32,4 @@ It’s clean, responsive, and fully functional — a perfect practice project fo
 
 1. Clone this repository  
    ```bash
-   git clone https://github.com/<your-username>/quizverse.git
+   git clone https://github.com/<Prabhatstudio>/quizverse.git
