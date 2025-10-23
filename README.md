@@ -32,4 +32,3 @@ It’s clean, responsive, and fully functional — a perfect practice project fo
 
 1. Clone this repository  
    ```bash
-  [https://github.com/Prabhatstudio/Quiz?tab=readme-ov-file]
