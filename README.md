@@ -2,12 +2,6 @@
 
 > A simple yet powerful quiz platform built using **HTML, CSS, and JavaScript**, featuring a sleek dark mode UI and smooth animations.
 
-![Static Badge](https://img.shields.io/badge/Made%20with-HTML%2C%20CSS%20%26%20JS-blue?style=for-the-badge)
-![Static Badge](https://img.shields.io/badge/Dark%20Mode-Enabled-black?style=for-the-badge)
-![Static Badge](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Static Badge](https://img.shields.io/badge/License-Free-brightgreen?style=for-the-badge)
-
----
 
 ## 🌟 Overview  
 
