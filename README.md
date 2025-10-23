@@ -39,7 +39,8 @@ It’s simple, engaging, and completely built from scratch using pure front-end 
 
 ---
 
-## 🖼️ Screenshot (Optional)
-_Add a preview image of your project here_
-```html
-![QuizVerse Preview](preview.png)
+## 🚀 How to Use  
+
+1. Clone this repository  
+   ```bash
+   git clone https://github.com/<your-username>/quizverse.git
